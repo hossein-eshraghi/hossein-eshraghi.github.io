@@ -60,7 +60,7 @@
   overflow: hidden;
 }
 
-.page-home {  
+.page-home {
   padding: 25px 0;
   width: 100%;
   height: 700px;
@@ -114,7 +114,7 @@
 .page-home .badge {
   padding: 16px 24px;
   background-color: rgba(239, 56, 36, 0.15);
-  color: #EF3724;
+  color: hsl(59, 62%, 56%);
   text-shadow: 0 2px 4px rgba(23, 25, 37, 0.4);
   font-size: 16px;
   border-radius: 40px;
@@ -143,8 +143,8 @@
 }
 
 .page-about .img-place {
-  width: 280px;
-  height: 350px;
+  width: 310px;
+  height: 318px;
   background-color: #dfe0e6;
   overflow: unset;
 }
@@ -522,7 +522,7 @@
 }
 
 /* Theme Blue */
-.theme-blue .badge-subhead  {
+.theme-blue .badge-subhead {
   background-color: rgba(41, 96, 247, 0.15);
   color: #2960f7;
 }
@@ -557,7 +557,7 @@
 }
 
 /* Theme Green */
-.theme-green .badge-subhead  {
+.theme-green .badge-subhead {
   background-color: rgba(139, 198, 63, 0.15);
   color: #8cc63f;
 }
@@ -592,7 +592,7 @@
 }
 
 /* Theme Orange */
-.theme-orange .badge-subhead  {
+.theme-orange .badge-subhead {
   background-color: rgba(253, 125, 20, 0.15);
   color: #fd7e14;
 }
@@ -627,7 +627,7 @@
 }
 
 /* Theme Purple */
-.theme-purple .badge-subhead  {
+.theme-purple .badge-subhead {
   background-color: rgba(110, 66, 193, 0.15);
   color: #6f42c1;
 }
